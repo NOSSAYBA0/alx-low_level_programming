@@ -1,1 +1,1 @@
-C programming readme
+debugging readme
