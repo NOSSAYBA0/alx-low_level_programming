@@ -8,6 +8,7 @@
 void print_alphabet_x10(void)
 
 {
+
 	char l;
 	int i = 0;
 
