@@ -9,13 +9,13 @@ int main(void)
 {
     int r;
 
-    r = _isalpha('H');
+    r = test_isalpha('H');
     _putchar(r + '0');
-    r = _isalpha('o');
+    r = test_isalpha('o');
     _putchar(r + '0');
-    r = _isalpha(108);
+    r = test_isalpha(108);
     _putchar(r + '0');
-    r = _isalpha(';');
+    r = test_isalpha(';');
     _putchar(r + '0');
     _putchar('\n');
     return (0);

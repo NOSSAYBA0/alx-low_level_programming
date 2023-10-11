@@ -2,8 +2,7 @@
 /**
  * _isatpha - Checks for alphabetic character 
  * @c: The character to be checked
- * return: 1 it c if c is a letter, lowercase or uppercase
- * Returns 0 otherwise
+ * return: 1 for alphabetic character or 0 for anything else
  */
 
 int _isatpha(int c )
