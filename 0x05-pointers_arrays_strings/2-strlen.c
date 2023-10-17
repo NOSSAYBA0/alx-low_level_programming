@@ -7,8 +7,7 @@
  *  return: the lenght of @str
  */
 int _strlen(char *str)
-	/*the function that returns the length of a string
-	 */
+/*the function that returns the length of a string. */
 
 {
 	int length = 0;
