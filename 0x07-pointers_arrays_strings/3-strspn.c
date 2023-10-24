@@ -2,7 +2,7 @@
 
 /**
  * _strspn - main function
- * @: fonction parameter
+ * @s fonction parameter
  * @accept: function parameter
  * Return: always 0
  */
